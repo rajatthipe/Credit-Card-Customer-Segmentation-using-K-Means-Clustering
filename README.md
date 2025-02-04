@@ -30,4 +30,4 @@ It typically includes features like:
 ## Requirements
 
 * Python 3
-* Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn .
+* Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn.
